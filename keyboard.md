@@ -19,3 +19,4 @@ Caps Lock   **⇪**
 **`Command–空格键`**    | Spotlight：显示或隐藏 Spotlight 搜索栏。要从 Finder 窗口执行 Spotlight 搜索，请按 Command–Option–空格键。如果您使用多个输入源以便用不同的语>言键入内容，这些快捷键会更改输入源而非显示 Spotlight。
 **`Command (⌘)-Shift-3`**     | 对整个屏幕拍摄屏幕快照,在桌面在找到以 .png 文件存储的屏幕快照。
 **`Command-Shift-4`**        | 对屏幕的某个部分拍摄屏幕快照,esc取消
+**`Shift-Ctrl-Power`** | 锁屏

@@ -80,6 +80,12 @@ The Markdown Preference Pane
 	}
 > 代码区块的建立是在每行开头加上4个空格或者一个制表符
 
+```javascript
+let _hello = "Hello, Markdown."
+console.log(_hello)
+```
+>或者用`````` ``` ``````包裹，一些支持代码高亮的解析器可指定语言。
+
 ***
 
 #### 表格
